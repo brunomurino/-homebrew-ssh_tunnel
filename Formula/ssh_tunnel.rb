@@ -1,4 +1,4 @@
-class SSH_TUNNEL < Formula
+class SshTunnel < Formula
     desc "Manager of SSH Tunnels written in Rust"
     homepage "https://github.com/brunomurino/ssh_tunnel"
     url "https://github.com/brunomurino/ssh_tunnel/releases/download/v0.1.0/ssh_tunnel-mac.tar.gz"
